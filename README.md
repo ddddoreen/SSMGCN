@@ -5,8 +5,8 @@ Python>=3.8.0 environment, including PyTorch>=1.8.
 The command is as follows.
 
 ```bash
-conda create -n miccai python=3.8
-conda activate miccai
+conda create -n SSMGCN python=3.8
+conda activate SSMGCN
 pip install -r requirements.txt  # install
 ```
 ## Datasets
